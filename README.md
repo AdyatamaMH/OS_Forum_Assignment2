@@ -1,4 +1,4 @@
-# Assignment 2
+# OS Forum Assignment 2
 
 ## Instructions:
 
@@ -8,5 +8,6 @@
 
 3. **Run the Program**: Write `./Assignment2 999 requests.txt` on the terminal. Note that you can replace `999` with any number from 1 to 1000.
 
-4. **View Results**: Here is the result `{Result_OS.png}`.
+4. **View Results**: Here is the result:
 
+   ![Result](Result_OS.png)
